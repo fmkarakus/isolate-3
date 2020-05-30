@@ -133,17 +133,17 @@ __As a site visitor, I want to learn more about Gelila__
 
 ---
 
-## 6. Introduce Mohammed
+## 6. Introduce Mohammad
 
-__As a site visitor, I want to learn more about Mohammed__
+__As a site visitor, I want to learn more about Mohammad__
 
 > assigned to 
 
 ### Repo
 
-- [ ] developed on a branch named `Mohammed`
+- [ ] developed on a branch named `Mohammad`
 
-### Mohammed.md
+### Mohammad.md
 
 - [ ] create the file
 - [ ] add their name as the main title
@@ -158,7 +158,7 @@ __As a site visitor, I want to learn more about Mohammed__
 
 ## 7. Introduce Pavel
 
-__As a site visitor, I want to learn more about pavel__
+__As a site visitor, I want to learn more about Pavel__
 
 > assigned to 
 
