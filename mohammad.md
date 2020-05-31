@@ -1,7 +1,5 @@
 >## Mohammad Musa
 
->![Pic](https://user-images.githubusercontent.com/59515791/81398118-e67ea400-9128-11ea-8d5c-faaab82f85ce.jpg)
->* ### Mohammad Musa
 >* ###### I am passionate about the art of coding :computer:
 >##  
 >## Education:
