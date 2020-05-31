@@ -183,4 +183,3 @@ __As a site visitor, I want to learn more about Pavel__
 
 __As a perfectionist, I want everything perfect :)__
 
-> assigned to Fatih
