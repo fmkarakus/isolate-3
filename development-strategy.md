@@ -6,7 +6,7 @@ A simple little website for the world to know a little about us.
 
 ## 0. Set-Up
 
-> repository owner: _
+> repository owner: fatih
 
 __A User can see a empty site at the correct URL__
 
@@ -24,7 +24,7 @@ __A User can see a empty site at the correct URL__
 
 ## 1. about the team
 
-> assigned to _
+> assigned to gelila
 
 __As a site visitor, I want to know about your team and who is in it__
 
@@ -45,7 +45,7 @@ __As a site visitor, I want to know about your team and who is in it__
 
 __As a site visitor, I want to learn more about Abdul__
 
-> assigned to 
+> assigned to Abdul
 
 ### Repo
 
@@ -68,7 +68,7 @@ __As a site visitor, I want to learn more about Abdul__
 
 __As a site visitor, I want to learn more about Anna__
 
-> assigned to 
+> assigned to Anna 
 
 ### Repo
 
@@ -91,7 +91,7 @@ __As a site visitor, I want to learn more about Anna__
 
 __As a site visitor, I want to learn more about Fatih__
 
-> assigned to 
+> assigned to Fatih
 
 ### Repo
 
@@ -114,7 +114,7 @@ __As a site visitor, I want to learn more about Fatih__
 
 __As a site visitor, I want to learn more about Gelila__
 
-> assigned to 
+> assigned to Gelila
 
 ### Repo
 
@@ -137,7 +137,7 @@ __As a site visitor, I want to learn more about Gelila__
 
 __As a site visitor, I want to learn more about Mohammad__
 
-> assigned to 
+> assigned to Mohammad
 
 ### Repo
 
@@ -160,7 +160,7 @@ __As a site visitor, I want to learn more about Mohammad__
 
 __As a site visitor, I want to learn more about Pavel__
 
-> assigned to 
+> assigned to Pavel
 
 ### Repo
 
@@ -183,4 +183,4 @@ __As a site visitor, I want to learn more about Pavel__
 
 __As a perfectionist, I want everything perfect :)__
 
-> assigned to 
+> assigned to Fatih
