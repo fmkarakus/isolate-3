@@ -164,14 +164,14 @@ __As a site visitor, I want to learn more about Pavel__
 
 ### Repo
 
-- [ ] developed on a branch named `pavel`
+- [x] developed on a branch named `pavel`
 
 ### pavel.md
 
-- [ ] create the file
-- [ ] add their name as the main title
-- [ ] write a paragraph introduction
-- [ ] create a link back to the README
+- [x] create the file
+- [x] add their name as the main title
+- [x] write a paragraph introduction
+- [x] create a link back to the README
 
 ### README.md
 
@@ -183,4 +183,3 @@ __As a site visitor, I want to learn more about Pavel__
 
 __As a perfectionist, I want everything perfect :)__
 
-> assigned to Fatih
